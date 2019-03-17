@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    margin: 0 auto;
+    width: 100%; 
+    clear: both;
+    font-family: 'Montserrat';
+
+}
+
+@media only screen and (min-width: 150px) and (max-width: 600px){
+
+}
